@@ -1,2 +1,2 @@
 # souji
-A small library for tweets preprocessing
+A small library for Natural Language Processing on Tweets. Work in progress.
